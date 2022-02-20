@@ -30,44 +30,44 @@
         },
         {
             "name": "Apple Pie",
-            "description": "Cok lezzetli bir elmalı kurabiye",
+            "description": "It'll win over your heart remained Sweet Apple chunks in a crispy pie crust. It'll win you over in a bite! Perfect after meals.",
             "price": "$0.50",
             "img": "img/apple_pie.png",
             "category": "sweets"
         },
         {
             "name": "King Sundae",
-            "description": "Cok lezzetli bir sundae",
+            "description": "Vanilla, chocolate sauce, blackberry sauce, caramel sauce, strawberry sauce sundae",
             "price": "$0.40",
             "img": "img/sundae.png",
             "category": "sweets"
         },
         {
-            "name": "Sufle",
-            "description": "Cok lezzetli bir sufle",
+            "name": "Muffin",
+            "description": "Two beef patties, cheese, streaky bacon, a freshly cracked egg and ketchup all packed into a toasted English muffin. It’s a breakfast that’ll last you til lunch.",
             "price": "$0.60",
-            "img": "img/sufle.png",
+            "img": "img/muffin.png",
             "category": "sweets"
         },
         {
             "name": "Latte",
-            "description": "Mis gibi latte",
+            "description": "Better Latte than never Makes mornings worth waking up for. Espresso and milk. Hot & Iced Latte are available.",
             "price": "$0.70",
             "img": "img/latte.png",
             "category": "coffees"
         },
         {
             "name": "Mocha",
-            "description": "Cok lezzetli bir elmalı kurabiye",
-            "price": "$0.50",
-            "img": "img/apple_pie.png",
+            "description": "Makes a mocha-ry of boring drinks If coffee ain’t hip enough, try this combination of chocolate and espresso. Hot & Iced Mocha are available",
+            "price": "$0.60",
+            "img": "img/mocha.png",
             "category": "coffees"
         },
         {
-            "name": "Cappucino",
-            "description": "Cok lezzetli bir elmalı kurabiye",
-            "price": "$0.50",
-            "img": "img/apple_pie.png",
+            "name": "Cappuccino",
+            "description": "Can’t stoppa at one cuppa An Italian classic prepared with espresso, hot milk and steamed milk foam.",
+            "price": "$0.65",
+            "img": "img/cappuccino.png",
             "category": "coffees"
         }
         ]
