@@ -34,9 +34,9 @@
 }
 
 .header.burgers .header_img div img.cola {
-  height: 80px;
-  width: 60px;
-  transform: translate(-2500px, -7px);
+  height: 95px;
+  width: 95px;
+  transform: translate(-2500px, 0);
   animation: show_cola 1s 1.5s forwards;
 }
 
@@ -67,6 +67,6 @@
 
 @keyframes show_cola {
   to {
-    transform: translate(-25px, -7px);
+    transform: translate(-15px, 0);
   }
 }
