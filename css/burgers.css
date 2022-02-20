@@ -56,7 +56,7 @@
 .header.burgers .header_description p {
   color: #eee;
   opacity: 0;
-  animation: show_opacity 2s 1.5s forwards;
+  animation: show_opacity 2s 1s forwards;
 }
 
 @keyframes show_fries {
