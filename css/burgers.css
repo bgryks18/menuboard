@@ -1,7 +1,7 @@
 .header.burgers {
   transition: all 1s;
   position: absolute;
-  top: 50%;
+  top: 55%;
   left: 0;
   transform: translateY(-50%);
   height: 450px;
