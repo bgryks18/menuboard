@@ -44,6 +44,17 @@ const startSlider = (data) => {
               product_img.classList = page;
               header_img.append(product_img);
           }
+      const title = document.querySelector("#slideTitle");
+      if (title.textContent !== data[index].category.toUpperCase()){
+        title.animate([
+          {opacity:0},
+          {opacity:1}
+        ],
+        {
+          duration:2000
+        })
+        title.textContent = data[index].category.toUpperCase();
+      }
       const header_description = document.createElement(`div`);
       header_description.classList = 'header_description';
           const header_description_h1 = document.createElement(`h1`);
