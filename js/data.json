@@ -1,0 +1,74 @@
+{
+    "products": [
+        {
+            "name": "Double Whooper",
+            "description":"Our Double Whopper Sandwich is a pairing of two ¼ lb* savory flame-grilled beef patties topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun.",
+            "img": "img/doublewhooper.png",
+            "price": "$6.95",
+            "category": "burgers"
+        },
+        {
+            "name": "Whooper Jr.",
+            "description":"Our Whopper Jr. Sandwich features one savory flame-grilled beef patty topped with juicy tomatoes, fresh lettuce, creamy mayonnaise, ketchup, crunchy pickles, and sliced white onions on a soft sesame seed bun. Served with a small side of piping hot, thick cut french fries or golden onion rings and a small fountain drink of your choice to make it a meal.",
+            "img": "img/whooperjr.png",
+            "price": "$2.50",
+            "category": "burgers"
+        },
+        {
+            "name": "Texas Burger",
+            "description":"Our Texas Burger Sandwich features two ¼ lb* savory flame-grilled beef patties, topped a with hearty portion of thick-cut smoked bacon, melted American cheese and topped with ketchup and creamy mayonnaise all on a soft sesame seed bun.",
+            "img": "img/texas.png",
+            "price": "$6.50",
+            "category": "burgers"
+        },
+        {
+            "name": "Cheeseburger",
+            "description":"Our Cheeseburger is a signature flame-grilled beef patty topped with a simple layer of melted American cheese, crinkle cut pickles, yellow mustard, and ketchup on a toasted sesame seed bun.",
+            "img": "img/cheeseburger.png",
+            "price": "$2.50",
+            "category": "burgers"
+        },
+        {
+            "name": "Apple Pie",
+            "description": "Cok lezzetli bir elmalı kurabiye",
+            "price": "$0.50",
+            "img": "img/apple_pie.png",
+            "category": "sweets"
+        },
+        {
+            "name": "King Sundae",
+            "description": "Cok lezzetli bir sundae",
+            "price": "$0.40",
+            "img": "img/sundae.png",
+            "category": "sweets"
+        },
+        {
+            "name": "Sufle",
+            "description": "Cok lezzetli bir sufle",
+            "price": "$0.60",
+            "img": "img/sufle.png",
+            "category": "sweets"
+        },
+        {
+            "name": "Latte",
+            "description": "Mis gibi latte",
+            "price": "$0.70",
+            "img": "img/latte.png",
+            "category": "coffees"
+        },
+        {
+            "name": "Mocha",
+            "description": "Cok lezzetli bir elmalı kurabiye",
+            "price": "$0.50",
+            "img": "img/apple_pie.png",
+            "category": "coffees"
+        },
+        {
+            "name": "Cappucino",
+            "description": "Cok lezzetli bir elmalı kurabiye",
+            "price": "$0.50",
+            "img": "img/apple_pie.png",
+            "category": "coffees"
+        }
+        ]
+    }
