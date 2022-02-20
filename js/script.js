@@ -119,7 +119,7 @@ coffees
         ],
         {
         duration:1300,
-        delay:seconds-900
+        delay:seconds-1200
         }
     )
     const header_img = document.createElement(`div`);
