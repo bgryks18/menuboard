@@ -17,6 +17,46 @@ body {
   position: relative;
 }
 
+.container .banner {
+  width: 100%;
+  position: relative;
+  top: 25px;
+}
+
+.container .banner .banner_content {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container .banner .banner_content .bannerimg {
+  width: 170px;
+  height: 170px;
+  border-radius: 3px;
+}
+
+.container .banner .banner_content h1 {
+  font-size: 2.5rem;
+  font-family: 'Holtwood One SC', serif;
+  color: #e3e3e3;
+  text-shadow: 1px 1px 2px #000;
+}
+
+.container .banner .banner_content .bannerimg2 {
+  width: 450px;
+  height: 170px;
+  border-radius: 3px;
+}
+
+.container .banner h3 {
+  font-size: 1.8rem;
+  font-family: 'Holtwood One SC', serif;
+  color: #e3e3e3;
+  text-shadow: 1px 1px 2px #000;
+  margin-top: 10px;
+}
+
 @media (min-width: 768px) {
   .container {
     width: 750px;

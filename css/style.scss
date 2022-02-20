@@ -15,6 +15,41 @@ $white: #e3e3e3;
     margin:0 auto;
     height:100vh;
     position: relative;
+    .banner {
+      width:100%;
+      position:relative;
+      top:25px;
+      .banner_content {
+        position: relative;
+        display:flex;
+        justify-content: space-between;
+        align-items: center;
+
+        .bannerimg {
+          width:170px;
+          height:170px;
+          border-radius: 3px;
+        }
+        h1 {
+          font-size:2.5rem;
+          font-family: 'Holtwood One SC', serif;
+          color:$white;
+          text-shadow: 1px 1px 2px $shadow;
+        }
+        .bannerimg2 {
+          width:450px;
+          height: 170px;
+          border-radius: 3px;
+        }
+      }
+      h3 {
+        font-size:1.8rem;
+        font-family: 'Holtwood One SC', serif;
+        color:$white;
+        text-shadow: 1px 1px 2px $shadow;
+        margin-top:10px;
+      }
+    }
   }
   @media (min-width: 768px) {
     .container {
