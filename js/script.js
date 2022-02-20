@@ -1,5 +1,5 @@
 const startSlider = (data) => {
-    let i = 8;
+    let i = 0;
     let seconds = 11;
     const productSlide = (i,page,seconds) => {
       const index = i%data.length;
