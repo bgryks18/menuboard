@@ -110,7 +110,7 @@ const startSlider = (data) => {
       bu elementin içeriği data'dan gelen kategori değerine yani page değerinin büyük harfle çevrilmiş haline eşit değilse
       bu içeriği animasyonla birlikte kategori değeriyle değiştiriyoruz
       */
-      if (title.textContent !== data[index].category.toUpperCase()){
+      if (title.textContent !== page.toUpperCase()){
         title.animate([
           {opacity:0},
           {opacity:1}
@@ -118,7 +118,7 @@ const startSlider = (data) => {
         {
           duration:2000
         })
-        title.textContent = data[index].category.toUpperCase();
+        title.textContent = page.toUpperCase();
       }
       // ürün başlık, fiyat ve yazı alanı için kapsayıcı div elementini oluşturuyoruz
       const header_description = document.createElement(`div`);
