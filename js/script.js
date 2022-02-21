@@ -36,7 +36,7 @@ const startSlider = (data) => {
           duration:1300,
           
           // delayı seconds kadar verirsek slide efekti görünmeden element kaldırılır o yüzden duration kadar azaltıyoruz
-          delay:seconds-1200
+          delay:seconds-1300
           }
       )
       // ürünün resmi için div oluşturuyoruz
