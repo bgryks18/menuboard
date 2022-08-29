@@ -1,4 +1,6 @@
 # Menu Board Slider Uygulaması
+https://radiant-praline-ee25a2.netlify.app
+
 Bu örnek bir restaurant menü tabelası slider uygulamasıdır.
 Bu içerik 1920x1080 pixel çözünürlüğünde, Google Chrome tarayıcısında çalıştırılmak üzere tasarlanmıştır.
 İçerik herhangi bir paket içermemektedir.
